@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Tay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Tay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taywony&show_icons=true&theme=merko)
 
 <!--
 **Taywony/Taywony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
