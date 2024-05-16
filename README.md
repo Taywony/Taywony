@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋 I'm Taewon Kim
 
+<a href="mailto:taewon2659@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ![Tay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taywony&show_icons=true&theme=merko)
 
