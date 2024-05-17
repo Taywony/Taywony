@@ -1,7 +1,9 @@
 ### Hi, I'm Taewon Kim👋
-
-<a href="https://taywony.tistory.com/" target="_blank">✍️</a>
-<a href="mailto:taewon2659@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<div style="display: inline_block" >
+  
+<a href="https://taywony.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog?style=flat-square&logo=tistory&color=%23ff5a4a"></a>
+<a href="mailto:taewon2659@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 
 
 ### 💪Skills
