@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaywony&count_bg=%231679AB&title_bg=%23102C57&icon=&icon_color=%23FCDC94&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaywony&count_bg=%231679AB&title_bg=%23102C57&icon=&icon_color=%23FCDC94&title=visit&edge_flat=false)](https://github.com/taywony)
 
 <img src="https://media0.giphy.com/media/11ISwbgCxEzMyY/giphy.gif?cid=7941fdc6b7xqxe9nmruizqvbms3406baf3vqde5myvgexm07&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
