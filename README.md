@@ -19,7 +19,7 @@
 <img alt="TS Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="React Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br/>
-<img alt="Sass Badge" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img alt="SCSS Badge" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img alt="styledcomponents Badge" src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 <img alt="Chakra-UI Badge" src="https://img.shields.io/badge/ChakraUI-319795?style=flat-square&logo=chakraui&logoColor=white"/>
 </div>
